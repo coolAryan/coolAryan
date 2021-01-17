@@ -1,4 +1,4 @@
-### Folks, I'm Aryan - aka coolAryan 👋
+### Hi there Folks, I'm Aryan - aka coolAryan 👋
 
 ## I'm a Developer,learner,Innovative Thinker,TeamPlayer and What Not!!
 
