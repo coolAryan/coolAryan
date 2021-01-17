@@ -48,8 +48,9 @@
   <img align="left" alt="coolAryan's GitHub Stats" src="https://github-readme-stats.coolaryan.vercel.app/api?username=coolAryan&show_icons=true&hide_border=true" />
 
 </details>
+
 ### 📺 Refrences
--[youtube]:https://youtu.be/Y1z7_GfEPiE
--[youtube]:https://youtu.be/n6d4KHSKqGk
+-[Program With Erik](https://youtu.be/Y1z7_GfEPiE)
+-[CODESTACKr](https://youtu.be/n6d4KHSKqGk)
 
 
