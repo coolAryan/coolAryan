@@ -49,8 +49,8 @@
 
 </details>
 
-### 📺 Refrences
+<!--### 📺 Refrences
 -[Program With Erik](https://youtu.be/Y1z7_GfEPiE)
--[CODESTACKr](https://youtu.be/n6d4KHSKqGk)
+-[CODESTACKr](https://youtu.be/n6d4KHSKqGk)-->
 
 
