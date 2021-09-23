@@ -45,10 +45,19 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="coolAryan's GitHub Stats" src="https://github-readme-stats.coolaryan.vercel.app/api?username=coolAryan&show_icons=true&hide_border=true" />
+<!--  <img align="left" alt="coolAryan's GitHub Stats" src="https://github-readme-stats.coolaryan.vercel.app/api?username=coolAryan&show_icons=true&hide_border=true" />-->
+  [![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolAryan&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolAryan&repo=github-readme-stats)](https://github.com/coolAryan/github-readme-stats)
+
 
 </details>
+<details>
+  <summary>:zap: Languages</summary>
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolAryan&layout=compact)](https://github.com/coolAryan/github-readme-stats)-->
 
+
+</details>
 <!--### 📺 Refrences
 -[Program With Erik](https://youtu.be/Y1z7_GfEPiE)
 -[CODESTACKr](https://youtu.be/n6d4KHSKqGk)-->
