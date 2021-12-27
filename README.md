@@ -15,7 +15,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Aryan|LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aryan-jain-47a4a1145/)
+[<img align="left" alt="Aryan|LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aryan-jain-47a4a1145/)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/leetcode.svg" />](https://leetcode.com/aryanjain584/)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/glassdoor.svg" />](https://www.glassdoor.co.in/member/profile/index.htm)
 
 <br />
