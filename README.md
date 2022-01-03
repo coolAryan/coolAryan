@@ -3,13 +3,13 @@
 ## I'm a Developer,learner,Innovative Thinker,TeamPlayer and What Not!!
 
 
-- 🔭 I’m currently working on Flutter & JavaScript
+- 🔭 I’m currently working on Problem Solving Skills
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open Source Projects
 - 💬 Ask me about Robotics or any tech related stuff
 - 😄 Pronouns: AJ/Aryan
 - ⚡ Hobbies: I love to explore different TechStacks especially Robotics
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects,Get extensive understanding of DS Algo
 -->
 
 
